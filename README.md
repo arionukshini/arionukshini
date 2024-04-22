@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Arion Ukshini<br><br>🎓 A Full-Stack Developer, certified by Arra Academy<br>🏫 Currently in high school<br>👨‍💻 Working on my portfolio website<br>🔭 Looking for a job<br>📨 Email: arionukshini01@gmail.com
+Hi 👋, I'm Arion Ukshini<br><br>🎓 A Full-Stack Developer, certified by Arra Academy<br>🏫 Currently in high school<br>👨‍💻 Working on my portfolio website<br>📱 iOS Advocate<br>🔭 Looking for a job<br>📨 Email: arionukshini01@gmail.com
 
 
 ## 🌐 Socials:
