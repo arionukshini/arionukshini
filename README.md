@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Arion Ukshini<br><br>🎓 A Full-Stack Developer, certified by ARRA Academy<br>🏫 Studying "Computer and Software Engineering" in the Univesity of Prishtina<br>📲 iOS Advocate<br>🔭 Looking for a job<br>📨 Email: arionukshini01@gmail.com
+Hello, I'm Arion Ukshini<br><br>🎓 A Full-Stack Developer<br>🏫 Studying "Computer and Software Engineering" in the Univesity of Prishtina<br>🔭 Looking for a job<br>📨 Email: arionukshini01@gmail.com
 
 
 ## 🌐 Socials:
