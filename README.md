@@ -4,6 +4,9 @@ Hello, I'm Arion Ukshini.
 🎓 Full-Stack Developer  
 🏫 Studying "Computer and Software Engineering" at the University of Prishtina  
 
+## Social
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arion.ukshini)
+
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=arionukshini&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arionukshini&theme=gotham&hide_border=false)<br/>
